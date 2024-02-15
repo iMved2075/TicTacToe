@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-void drawBoard(char mat[3][3]){                   //For darwing the board
+void drawBoard(char mat[3][3]){                   //For drawing the board
     cout << "Board :" << endl;
     cout << endl;
     cout << "-------------" << endl;
